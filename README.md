@@ -1,10 +1,11 @@
 <div align="center">
 
 # Hey there, I'm Mohammad 👋
-### aka **Mamad** — Full-Stack Developer & Automation Enthusiast
+### aka **Mamad** — Full-Stack Developer & Panel Architect
 
 [![GitHub followers](https://img.shields.io/github/followers/mohammad1390555?label=Followers&style=for-the-badge&color=blue)](https://github.com/mohammad1390555)
-[![GitHub stars](https://img.shields.io/github/stars/mohammad1390555?style=for-the-badge&color=yellow)](https://github.com/mohammad1390555)
+[![GitHub stars](https://img.shields.io/github/stars/mohammad1390555?label=Stars&style=for-the-badge&color=yellow)](https://github.com/mohammad1390555)
+[![Profile views](https://komarev.com/ghpvc/?username=mohammad1390555&color=blueviolet&style=for-the-badge)](https://github.com/mohammad1390555)
 
 </div>
 
@@ -12,11 +13,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 Building **panels, bots & automation tools** — from Discord bots to VPN panels
-- ☁️ Big fan of **Cloudflare Workers** — serverless everything
-- 🐍 Python • 🟨 JavaScript • 🐘 PHP • 🎯 Kotlin
-- 🌍 Based in Iran
-- 💬 Ask me about **bots, hosting panels, and network tools**
+- 🚀 I build **panels, bots & automation tools** — from Discord bots to VPN panels
+- ☁️ **Cloudflare Workers** fanatic — if it can run serverless, I'll make it serverless
+- 🛡️ Creator of **PANAHANNET** — VPN management that runs entirely on the edge
+- 🌍 Based in Iran · Fluent in Persian & English
 
 ---
 
@@ -26,59 +26,45 @@
 |---|---|
 | **Languages** | Python, JavaScript, PHP, Kotlin, Bash |
 | **Bots** | discord.py, Telegram Bot API |
-| **Serverless** | Cloudflare Workers, Wrangler |
-| **Web** | React, Node.js, CSS |
+| **Serverless** | Cloudflare Workers, D1, Wrangler |
+| **Web** | React, Node.js, Tailwind CSS |
 | **Infra** | Docker, Linux VPS, Nginx |
 
 ---
 
 ## 🔥 Featured Projects
 
+### 🌐 [PANAHANNET Panel](https://github.com/mohammad1390555/panahannet-panel)
+> VPN management panel running **entirely on Cloudflare Workers** — zero servers, always online.
+> Telegram bot with wallet & shop, web dashboard, subscription pages, usage tracking. Serverless speed at its finest.
+
 ### 🤖 [Aegis — Discord Bot](https://github.com/mohammad1390555/discord-bot)
-Full-featured modular Discord bot: moderation, tickets, giveaways, leveling, economy, voice rooms & music. Built with `discord.py 2.x` + Docker.
+> Full-featured modular Discord bot: moderation, tickets, giveaways, leveling, economy, voice rooms & music.
+> Built with discord.py 2.x + Docker deployment.
 
 ### 🚀 [VPN Panel Pro](https://github.com/mohammad1390555/vpn-panel-pro)
-Professional VPN panel with a **Telegram bot**, **web admin dashboard** and **subscription page** — running entirely on Cloudflare Workers.
+> Professional VPN panel with Telegram bot, web admin dashboard & subscription page — all on Cloudflare Workers.
 
-### 🌐 [Nahan](https://github.com/mohammad1390555/nahan)
-Network gateway tool running on Cloudflare Workers.
+### 🧠 [AI Guardian](https://github.com/mohammad1390555/ai-guardian)
+> AI-powered CLI that continuously analyzes your projects, detects bugs and inspects UI.
+> Your automated code guardian.
 
-### 🛡️ [Traffic Manager](https://github.com/mohammad1390555/Tracfic-manager)
-VPS traffic management & malware blocking for Linux servers (BETA).
-
-### 🖥️ [EasyTeam Panel](https://github.com/mohammad1390555/php-easyteam-panel)
-PHP hosting/team management panel with multi-language support and Windows installer.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammad1390555&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad1390555&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mohammad1390555&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📫 Reach Me
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammad1390555)
-
-</div>
+### 🤖 [OmniBot](https://github.com/mohammad1390555/OmniBot)
+> All-in-one production Discord bot: moderation, automod, logging, tickets, fun commands & more.
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohammad1390555&style=for-the-badge&color=blueviolet)
+## 📈 GitHub Stats
 
-*⚡ Powered by coffee and late-night commits*
+![Stats](https://github-readme-stats.vercel.app/api?username=mohammad1390555&show_icons=true&theme=dark&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad1390555&layout=compact&theme=dark&hide_border=true)
+
+---
+
+### 💬 Let's build something together
+
+**Panels · Bots · Automation · Serverless**
 
 </div>
