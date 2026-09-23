@@ -1,0 +1,46 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  readme-lint:
+    name: Lint README links
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check markdown links
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          use-quiet-mode: 'true'
+          config-file: .github/linkcheck.json
+
+  profile-sync:
+    name: Sync README badge counts
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Gather repo stats
+        run: |
+          echo "## Stats" > /tmp/stats.md
+          echo "" >> /tmp/stats.md
+          for repo in panahannet-panel discord-bot ai-guardian FeatherPanel sfdsgfd panah-android CraftCommand; do
+            stars=$(gh api "repos/mohammad1390555/$repo" --jq '.stargazers_count' 2>/dev/null || echo "?")
+            echo "- **$repo**: ⭐ $stars" >> /tmp/stats.md
+          done
+
+      - name: Commit stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: sync stats [skip ci]" || echo "No changes to commit"
+          git push

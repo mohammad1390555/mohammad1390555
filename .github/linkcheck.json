@@ -1,0 +1,8 @@
+{
+  "enableSchemaValidation": true,
+  "ignorePatterns": [
+    {
+      "pattern": "^https://github\\.com/mohammad1390555/.+$"
+    }
+  ]
+}
