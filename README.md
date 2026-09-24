@@ -17,7 +17,6 @@ I build **high-throughput systems**, **developer tooling**, and **mobile experie
 
 | Project | Stack | Description |
 |---|---|---|
-| 🌐 [**panahannet-panel**](https://github.com/mohammad1390555/panahannet-panel) | Workers · D1 · Hono | Full VPN management panel on Cloudflare Workers — Telegram bot sales, D1 database, user dashboard, payments. Serverless VPN business in a box. |
 | 🤖 [**discord-bot**](https://github.com/mohammad1390555/discord-bot) | Python · discord.py | **Aegis** — production-ready modular Discord bot: auto-mod, logging, music, giveaways, tickets. |
 | 🧠 [**ai-guardian**](https://github.com/mohammad1390555/ai-guardian) | Python · CLI | **LLM-powered** code analyzer CLI — continuous AI bug detection, security scanning & code review. |
 | 🪶 [**FeatherPanel**](https://github.com/mohammad1390555/FeatherPanel) | PHP · Laravel | Modern **game server hosting** control panel (Minecraft & more) — self-hosted, multi-tenant. |
