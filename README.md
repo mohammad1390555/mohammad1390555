@@ -9,10 +9,18 @@
 
 ---
 
+## Featured / پروژه‌های منتخب
+
+| Project / پروژه | Highlights / ویژگی‌ها | Links / پیوندها |
+|---|---|---|
+| **Omni Support** | AI + human support platform · Python | [Repository](https://github.com/mohammad1390555/omni-support) |
+| **Persian & English Font Generator** | 60+ styles · offline · HTML | [Repository](https://github.com/mohammad1390555/tool-fontgenerator) · [Live demo](https://mohammad1390555.github.io/tool-fontgenerator/) |
+| **Color Picker** | HEX/RGB/HSL · palettes · offline · HTML | [Repository](https://github.com/mohammad1390555/tool-colorpicker) · [Live demo](https://mohammad1390555.github.io/tool-colorpicker/) |
+
 ## Projects / پروژه‌های عمومی
 
-همه‌ی ۲۳ مخزن عمومی در [وب‌سایت دوزبانه‌ی من](https://mohammad1390555.github.io/) همراه با توضیحات فارسی و انگلیسی قرار دارند.  
-All 23 public repositories, with Persian and English descriptions, are on my [bilingual portfolio](https://mohammad1390555.github.io/).
+همه‌ی مخزن‌های عمومی در [وب‌سایت دوزبانه‌ی من](https://mohammad1390555.github.io/) همراه با توضیحات فارسی و انگلیسی قرار دارند.  
+All my public repositories, with Persian and English descriptions, are on my [bilingual portfolio](https://mohammad1390555.github.io/).
 
 <details>
 <summary>نمایش فهرست پروژه‌ها / Show all projects</summary>
